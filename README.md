@@ -2,6 +2,8 @@
 
 ![](./teaser.gif)
 
+![](https://github.com/e-k-m/gomartini/workflows/main/badge.svg)
+
 > a Go port of MARTINI for fast RTIN terrain mesh generation
 
 [Installation](#installation) | [Getting Up and Running](#getting-up-and-running) | [Examples](#examples) | [See Also](#see-also)
