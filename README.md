@@ -22,10 +22,12 @@ go get github.com/e-k-m/gomarini
 ## Getting Up and Running
 
 ```bash
-# 1. install mage (https://github.com/magefile/mage)
+# 1. Install mage (see here: https://github.com/magefile/mage)
+# 2. Install development tools using
+mage -v deps
 # 2. See tasks/targets via
 mage
-# call in project root, or just use go tools.
+# call in project root and then call the ones needed, or just use go tools.
 ```
 
 ## Examples
